@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HandOne</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="register">Regıster</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="click_for_register">Click for register</string>
+    <string name="please_login_for_continue">Please login for continue !</string>
+    <string name="welcome">Welcome,</string>
+    <string name="todo">TODO</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="girise_git">Girise git</string>
+</resources>
