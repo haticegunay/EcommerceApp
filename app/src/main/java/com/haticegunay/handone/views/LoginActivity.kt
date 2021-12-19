@@ -1,4 +1,4 @@
-package com.haticegunay.handone.ui
+package com.haticegunay.handone.views
 
 import android.content.ContentValues.TAG
 import android.content.Intent
@@ -7,7 +7,6 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
-import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
 import com.haticegunay.handone.R

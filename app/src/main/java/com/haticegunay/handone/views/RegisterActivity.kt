@@ -1,4 +1,4 @@
-package com.haticegunay.handone.ui
+package com.haticegunay.handone.views
 
 import android.content.ContentValues.TAG
 import android.content.Intent
