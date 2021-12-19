@@ -1,0 +1,10 @@
+com/haticegunay/handone/repos/deneme.java
+ com.haticegunay.handone.repos.deneme
+com/haticegunay/handone/BuildConfig.java
+ com.haticegunay.handone.BuildConfig
+com/haticegunay/handone/databinding/ActivityRegisterBinding.java
+ com.haticegunay.handone.databinding.ActivityRegisterBinding
+com/haticegunay/handone/databinding/ActivityLoginBinding.java
+ com.haticegunay.handone.databinding.ActivityLoginBinding
+com/haticegunay/handone/databinding/ActivityMainBinding.java
+ com.haticegunay.handone.databinding.ActivityMainBinding
